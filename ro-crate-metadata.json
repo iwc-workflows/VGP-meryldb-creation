@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2022-06-13T14:25:05.714396",
+            "datePublished": "2022-06-13T14:36:29.891474",
             "hasPart": [
                 {
                     "@id": "meryldb-creation.ga"
@@ -67,7 +67,7 @@
                     "@id": "https://vertebrategenomeproject.org"
                 },
                 {
-                    "@id": "#b675e72d-8319-4506-8450-4fd2c2b03132"
+                    "@id": "#7bac53f6-961b-4f94-8c4d-6c7108365b5b"
                 }
             ],
             "name": "VGP-meryldb-creation/main",
@@ -95,7 +95,7 @@
             "name": "VGP"
         },
         {
-            "@id": "#b675e72d-8319-4506-8450-4fd2c2b03132",
+            "@id": "#7bac53f6-961b-4f94-8c4d-6c7108365b5b",
             "@type": "Organization",
             "name": "Galaxy"
         },
